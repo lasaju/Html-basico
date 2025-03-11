@@ -1,0 +1,17 @@
+body{
+    background-color: darkcyan;
+}
+
+#fondo{
+    background-color: blue;
+}
+
+input{
+    border-radius: 15px;
+}
+button{
+    border-radius: 15px;
+}
+textarea{
+    border-radius: 15px;
+}
